@@ -10,8 +10,8 @@
 ### Clone the repo
 
 ```
-git clone git@github.com:corelogic-private/marketing_glb-globalmarketing-corp_web_sanity.git
-cd marketing_glb-globalmarketing-corp_web_sanity.git
+git clone git@github.com:davidbrown-CLGX/sanity-studio-poc.git
+cd sanity-studio-poc
 ```
 
 ### Install pnpm packages
