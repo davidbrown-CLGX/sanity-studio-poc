@@ -17,8 +17,8 @@ cd sanity-studio-poc
 ### Install pnpm packages
 
 ```
-pnpm install
-pnpm dev
+npm install
+npm run dev
 ```
 The pnpm dev command will start a local server at http://localhost:3333/
 
