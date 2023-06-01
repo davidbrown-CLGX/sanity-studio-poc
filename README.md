@@ -1,5 +1,31 @@
 # Sanity Movies Content Studio
 
+## Getting Started
+
+### Dependencies
+
+* Latest version of Node and NPM
+
+
+### Clone the repo
+
+```
+git clone git@github.com:corelogic-private/marketing_glb-globalmarketing-corp_web_sanity.git
+cd marketing_glb-globalmarketing-corp_web_sanity.git
+```
+
+### Install pnpm packages
+
+```
+pnpm install
+pnpm dev
+```
+The pnpm dev command will start a local server at http://localhost:3333/
+
+## Documentation
+
+https://www.sanity.io/docs/sanity-studio
+
 Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
 
 Now you can do the following things:
